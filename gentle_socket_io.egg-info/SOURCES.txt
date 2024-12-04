@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+gentle_socket_io/__init__.py
+gentle_socket_io.egg-info/PKG-INFO
+gentle_socket_io.egg-info/SOURCES.txt
+gentle_socket_io.egg-info/dependency_links.txt
+gentle_socket_io.egg-info/requires.txt
+gentle_socket_io.egg-info/top_level.txt
+tests/test_gentle_socket_io.py
