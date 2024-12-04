@@ -1,6 +1,6 @@
 # gentle-socket-io
 
-[![Changelog](https://img.shields.io/github/v/release/ubiros-dev/gentle-socket-io?include_prereleases&label=changelog)](https://github.com/ubiros-dev/gentle-socket-io/releases)
+[![Changelog](https://img.shields.io/github/v/release/ubiros-dev/gentle-socket-io?include_prereleases&label=changelog)](https://github.com/ubiros-dev/gentle_socket_io/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/ubiros-dev/gentle-socket-io/blob/main/LICENSE)
 
 Socket communication with Ubiros Gentle Grippers
