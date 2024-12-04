@@ -1,7 +1,5 @@
 # gentle-socket-io
 
-[![PyPI](https://img.shields.io/pypi/v/gentle-socket-io.svg)](https://pypi.org/project/gentle-socket-io/)
-[![Tests](https://github.com/ubiros-dev/gentle-socket-io/actions/workflows/test.yml/badge.svg)](https://github.com/ubiros-dev/gentle-socket-io/actions/workflows/test.yml)
 [![Changelog](https://img.shields.io/github/v/release/ubiros-dev/gentle-socket-io?include_prereleases&label=changelog)](https://github.com/ubiros-dev/gentle-socket-io/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/ubiros-dev/gentle-socket-io/blob/main/LICENSE)
 
