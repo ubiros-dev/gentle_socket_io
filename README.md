@@ -11,7 +11,7 @@ Socket communication with Ubiros Gentle Grippers
 
 Install this library using `pip`:
 ```bash
-pip install gentle-socket-io
+pip install git+https://github.com/ubiros-dev/gentle_socket_io.git
 ```
 ## Usage
 
