@@ -1,6 +1,6 @@
 [project]
 name = "gentle-socket-io"
-version = "0.1.1"
+version = "0.1.2"
 description = "Socket communication with Ubiros Gentle Grippers"
 readme = "README.md"
 requires-python = ">=3.8"
