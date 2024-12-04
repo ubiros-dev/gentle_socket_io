@@ -13,8 +13,6 @@ pip install git+https://github.com/ubiros-dev/gentle_socket_io.git
 ```
 ## Usage
 
-Usage instructions go here.
-
 ```python
 from gentle_socket_io.GentleSocket import GentleSocket
 from gentle_socket_io.GentleProfile import GentleProfile
@@ -32,19 +30,3 @@ bananaProfile = GentleProfile(name = "banana", force = 1200, open = 40, close = 
 eggProfile = GentleProfile(name = "Egg", force = 900, open = 40, close = 60, vmax=80)
 ```
 
-## Development
-
-To contribute to this library, first checkout the code. Then create a new virtual environment:
-```bash
-cd gentle-socket-io
-python -m venv venv
-source venv/bin/activate
-```
-Now install the dependencies and test dependencies:
-```bash
-python -m pip install -e '.[test]'
-```
-To run the tests:
-```bash
-python -m pytest
-```
