@@ -1,0 +1,28 @@
+[project]
+name = "gentle-socket-io"
+version = "0.1"
+description = "Socket communication with Ubiros Gentle Grippers"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "Ubiros Inc"}]
+license = {text = "Apache-2.0"}
+classifiers = [
+    "License :: OSI Approved :: Apache Software License"
+]
+dependencies = ["time", "socket"
+
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/ubiros-dev/gentle-socket-io"
+Changelog = "https://github.com/ubiros-dev/gentle-socket-io/releases"
+Issues = "https://github.com/ubiros-dev/gentle-socket-io/issues"
+CI = "https://github.com/ubiros-dev/gentle-socket-io/actions"
+
+
+[project.optional-dependencies]
+test = ["pytest"]
