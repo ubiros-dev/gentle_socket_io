@@ -1,6 +1,6 @@
 import time
 import socket
-from GentleProfile import GentleProfile
+from gentle_socket_io.GentleProfile import GentleProfile
 
 # import math
 # import serial, struct, 
